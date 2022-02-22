@@ -9,7 +9,7 @@ Si se selecciona un artículo debe mostrarse un detalle para éste.
 
 El carrito debe disponer de vista propia que muestre un resumen de la compra así como el total a pagar.
 
-Debe estar en producción.
+Debe estar en producción. Enlace: https://flamboyant-bhabha-20a001.netlify.app
 
 Almacena en local el carrito del usuario, de tal modo que si vuelve a cargar la página en el mismo navegador, el carrito se mostrará tal y como lo dejó.
 
