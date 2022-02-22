@@ -1,3 +1,24 @@
+Tienda React
+
+Se puede:
+Mostrar inicialmente un listado de productos, teniendo cada uno de ellos al menos un nombre, imagen y precio.
+
+Gestionar un carrito de la compra, de tal modo que cada producto debe ser posible agregarlo al carrito. 
+
+Si se selecciona un artículo debe mostrarse un detalle para éste.
+
+El carrito debe disponer de vista propia que muestre un resumen de la compra así como el total a pagar.
+
+Debe estar en producción.
+
+Almacena en local el carrito del usuario, de tal modo que si vuelve a cargar la página en el mismo navegador, el carrito se mostrará tal y como lo dejó.
+
+El carrito es capaz de manejar, para cada artículo, un número mayor a 1 de elementos. Por tanto si añado una nueva unidad de un artículo ya presente en el carrito, debe incrementarse este valor y no duplicar el artículo.
+
+El carrito permite modificar el número de artículos, pudiendo borrarlos o modificar su número de unidades.
+
+Se hace uso de rutas, como mínimo para el Home (listado artículos) y carrito.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
